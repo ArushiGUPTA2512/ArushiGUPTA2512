@@ -1,93 +1,157 @@
-<!-- ========================================================= -->
-<!--                     ARUSHI GUPTA                          -->
-<!--                  GITHUB PROFILE README                    -->
-<!-- ========================================================= -->
+<div align="center">
 
-<!-- =========================== HEADER ======================= -->
+<!-- ======================= HEADER ======================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Arushi%20Gupta&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"
-    width="100%"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:00E5FF&height=230&section=header&text=Arushi%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=17" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Full+Stack+Developer;DSA+Enthusiast;AI+Explorer;Problem+Solver;Software+Developer+in+Progress"
-    alt="Typing Animation"
-  />
-</p>
+<br/>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Arushi+Gupta;B.Tech+Computer+Science+Engineering+Student+%F0%9F%8E%93;Java+%7C+DSA+%7C+React+%7C+Node.js;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Projects+%7C+Solving+Problems+%7C+Learning+Every+Day" />
 
-  <a href="https://github.com/ArushiGUPTA2512">
-    <img
-      src="https://komarev.com/ghpvc/?username=ArushiGUPTA2512&label=Profile%20Views&color=8B5CF6&style=for-the-badge"
-      alt="Profile Views"
-    />
-  </a>
+<br/><br/>
 
-  <a href="https://github.com/ArushiGUPTA2512?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/ArushiGUPTA2512?label=Followers&style=for-the-badge&color=8B5CF6"
-      alt="Followers"
-    />
-  </a>
+<a href="https://github.com/ArushiGUPTA2512">
+<img src="https://img.shields.io/github/followers/ArushiGUPTA2512?style=for-the-badge&logo=github&label=Followers"/>
+</a>
 
-</p>
+<a href="https://github.com/ArushiGUPTA2512?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+<a href="https://github.com/ArushiGUPTA2512">
+<img src="https://komarev.com/ghpvc/?username=ArushiGUPTA2512&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+</a>
 
-# 👋 Hi, I'm Arushi Gupta
-
-### 💻 Computer Science Student | Full Stack Developer | DSA Enthusiast | AI Explorer 🚀
-
-<p align="center">
-
-> **Coder • Learner • Problem Solver • Builder**
-
-</p>
-
-I enjoy turning ideas into **practical applications** and continuously improving my problem-solving, development and software engineering skills.
+</div>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 **B.Tech Computer Science Engineering Student**
+Hi! I'm **Arushi Gupta**, a Computer Science Engineering student passionate about **software development, problem solving, and building practical applications**.
 
-💻 Passionate about **Full Stack Development, DSA and Software Engineering**
+I'm currently strengthening my skills in **Java, Data Structures & Algorithms, Full Stack Development, and modern web technologies**.
 
-☕ Currently improving my skills in **Java and Problem Solving**
+### 🚀 What I Do
 
-🌐 Building applications using **React.js, Node.js, Express.js and MongoDB**
+- 💻 Build practical web applications
+- ☕ Practice Java and Object-Oriented Programming
+- 🧩 Solve Data Structures & Algorithms problems
+- ⚛️ Develop interfaces using React.js
+- 🟢 Explore backend development with Node.js & Express.js
+- 🍃 Work with MongoDB and MySQL
+- 📊 Explore Data Analysis and Visualization
+- 🤖 Explore Artificial Intelligence & Machine Learning
+- 🐙 Use Git & GitHub for version control
 
-🤖 Exploring **Artificial Intelligence and Multi-Agent Systems**
+### 🎯 Career Goal
 
-🧩 Regularly practicing **DSA and LeetCode problems**
-
-📊 Interested in **Data Analytics and Data Visualization**
-
-🚀 Building real-world projects while continuously learning new technologies
-
-💡 I believe in learning by **building, solving and improving**.
+To become a strong **Software Engineer** with solid programming fundamentals, strong problem-solving skills, and practical full-stack development experience.
 
 ---
 
-# 🧑‍💻 Developer Profile
+# 🛠️ Technical Skills
+
+## 💻 Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
+
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
+
+---
+
+## 🗄️ Databases & Services
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+</p>
+
+---
+
+## 🔧 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
+
+---
+
+## 📊 Data & Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 My Projects
+
+<div align="center">
+
+### A collection of projects from my development and learning journey.
+
+</div>
+
+---
+
+## ⚖️ 1. Justice Management System
+
+> A full-stack web application designed to manage justice-related information and workflows through a centralized digital platform.
+
+### ✨ Features
+
+- 🔐 Authentication and authorization
+- 👤 User management
+- 📋 Case management
+- 🗂️ Organized case information
+- 📊 Dashboard and data management
+- 🌐 Responsive user interface
+- 🔄 Structured application workflow
+
+### 🛠️ Tech Stack
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                     ARUSHI GUPTA                            ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🎓 Computer Science Student                                ║
-║  💻 Full Stack Developer                                   ║
-║  🧩 DSA Enthusiast                                         ║
-║  🤖 AI Explorer                                            ║
-║  📊 Data Analytics Learner                                 ║
-║                                                              ║
-║  Learn → Build → Solve → Debug → Improve                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+React.js
+Node.js
+Express.js
+MongoDB
+JavaScript
+Tailwind CSS
