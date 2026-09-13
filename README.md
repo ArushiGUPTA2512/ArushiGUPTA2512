@@ -1,4 +1,4 @@
-<div align="center"> <!-- ======================= HEADER ======================= --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:00E5FF&height=230&section=header&text=Arushi%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=17" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Arushi+Gupta;B.Tech+Computer+Science+Student+%F0%9F%8E%93;Java+%7C+DSA+%7C+React+%7C+Node.js;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Projects+%7C+Solving+Problems+%7C+Learning+Every+Day" /> <br/><br/> <a href="https://github.com/ArushiGUPTA2512"> <img src="https://img.shields.io/github/followers/ArushiGUPTA2512?style=for-the-badge&logo=github&label=Followers"/> </a> <a href="https://github.com/ArushiGUPTA2512?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github"/> </a> <a href="https://github.com/ArushiGUPTA2512"> <img src="https://komarev.com/ghpvc/?username=ArushiGUPTA2512&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/> </a> </div> ---
+<div align="center"> <!-- ======================= HEADER ======================= --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9FF,100:00E5FF&height=230&section=header&text=Arushi%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=17" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Arushi+Gupta;B.Tech+Computer+Science+Student+%F0%9F%8E%93;Java+%7C+DSA+%7C+React+%7C+Node.js;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Building+Projects+%7C+Solving+Problems+%7C+Learning+Every+Day" /> <br/><br/>  </div> 
 
 
 ## 👩‍💻 About Me
@@ -19,7 +19,6 @@
 
 🚀 Building real-world projects while continuously learning new technologies
 
----
 
 ## 🛠️ Tech Stack
 
@@ -61,7 +60,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
 ## 🚀 What I'm Currently Working On
 
@@ -72,7 +70,7 @@
 - 📚 Learning **Backend Development**
 - 📊 Exploring **Data Analytics & Visualization**
 
----
+
 
 ## 🌟 Featured Projects
 
@@ -88,7 +86,7 @@ A civic-tech/legal-tech platform designed to improve:
 
 **Tech:** React • Vite • Tailwind CSS • Node.js • Express • MongoDB • JWT
 
----
+
 
 ### 🤖 Multi-Agent Rescue System
 
@@ -96,7 +94,6 @@ An AI-oriented project exploring the use of **multiple intelligent agents** for 
 
 **Tech:** HTML • JavaScript • Multi-Agent AI concepts
 
----
 
 ### 🎓 KIET Insight
 
@@ -104,7 +101,7 @@ A web-based project focused on providing useful information and insights through
 
 **Tech:** HTML • CSS • JavaScript
 
----
+
 
 ### 💻 LeetCode Solutions
 
@@ -124,7 +121,6 @@ Topics include:
 - Greedy Algorithms
 - Bit Manipulation
 
----
 
 ## 🧠 DSA Journey
 
